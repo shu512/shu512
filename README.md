@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Stanislav Gusev or just Stas
+### Hi there 👋, I'm Stas Gusev
 --------
 
-I'm a junior/middle(?) software developer at [Tradelanes](https://www.tradelanes.co/). I'm doing EmberJS app currently. Sometimes I need to do some stuff with our backend - NestJS + ElasticSearch. 
+I'm a middle software developer at [Tradelanes](https://www.tradelanes.co/). I'm doing EmberJS app currently. Sometimes I need to do some stuff with our backend - NestJS + ElasticSearch. 
 
 I live in Novosibirsk, Russia.
 
