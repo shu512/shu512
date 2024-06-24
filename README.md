@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Stas Gusev
 --------
 
-I'm a software developer at [Tradelanes](https://www.tradelanes.co/). I'm doing React app currently. Sometimes I need to do some stuff with our backend.
+I'm a software developer at [Tradelanes](https://www.tradelanes.co/). I'm doing React app currently. Sometimes I need to do some stuff with our backend (Node.js).
 
 I live in Novosibirsk, Russia.
 
